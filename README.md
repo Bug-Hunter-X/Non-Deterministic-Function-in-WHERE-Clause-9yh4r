@@ -1,0 +1,1 @@
+This repository contains an example of a SQL query with a non-deterministic function in the WHERE clause.  The query may produce different results on each execution due to the use of the non-deterministic function.  The solution demonstrates how to address the issue by either removing the non-deterministic function or modifying the function to be deterministic.
